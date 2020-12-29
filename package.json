@@ -1,0 +1,23 @@
+{
+  "name": "ajs-modules-ecm",
+  "version": "1.0.0",
+  "description": "**Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikiteo/ajs-modules-ecm.git"
+  },
+  "author": "Nikiteo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nikiteo/ajs-modules-ecm/issues"
+  },
+  "homepage": "https://github.com/Nikiteo/ajs-modules-ecm#readme",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
